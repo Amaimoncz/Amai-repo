@@ -1,0 +1,2 @@
+# Amai-repo
+Amaimon Repository

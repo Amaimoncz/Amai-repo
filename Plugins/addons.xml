@@ -1,6 +1,6 @@
 <addons>
 <addon id="skin.estuary.amai" 
-        version="1.0.4" 
+        version="1.0.5" 
         name="Estuary-Amaimon MOD" 
         provider-name="Amaimon">
 	<requires>
@@ -43,6 +43,13 @@
             <screenshot>resources/screenshot-15.jpg</screenshot>
 		</assets>
         <news>
+    v1.0.5
+    - pridani widgetu pro SC2
+    - drobne upravy ostatnich widgetu
+    - pridani hodnoceni do widgetu
+    - uprava menu pro vypnuti
+    - uprava hlavniho menu
+	
     v1.0.4
     - uprava widgetu info
     - doplneni titulku "Nejsou dostupne zadne informace"

@@ -1,6 +1,6 @@
 <addons>
 <addon id="skin.estuary.amai" 
-        version="1.0.5" 
+        version="1.0.6" 
         name="Estuary-Amaimon MOD" 
         provider-name="Amaimon">
 	<requires>
@@ -43,6 +43,9 @@
             <screenshot>resources/screenshot-15.jpg</screenshot>
 		</assets>
         <news>
+    v1.0.6
+    - uprava zobrazeni hodnoceni u serialu
+
     v1.0.5
     - pridani widgetu pro SC2
     - drobne upravy ostatnich widgetu

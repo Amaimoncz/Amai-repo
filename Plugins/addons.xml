@@ -1,6 +1,6 @@
 <addons>
 <addon id="skin.estuary.amai" 
-        version="1.0.7" 
+        version="1.0.8" 
         name="Estuary-Amaimon MOD" 
         provider-name="Amaimon">
 	<requires>
@@ -43,6 +43,10 @@
             <screenshot>resources/screenshot-15.jpg</screenshot>
 		</assets>
         <news>
+    v1.0.8
+    - uprava nastaveni widgetu
+    - uprava zobrazeni widgetu
+
     v1.0.7
     - uprava cest pro widget Stream Cinema 2
     - uprava fontu pro popis deje u widgetu a zobrazeni Seznam

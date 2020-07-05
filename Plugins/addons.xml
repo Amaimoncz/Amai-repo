@@ -1,6 +1,6 @@
 <addons>
 <addon id="skin.estuary.amai" 
-        version="1.0.8" 
+        version="1.0.9" 
         name="Estuary-Amaimon MOD" 
         provider-name="Amaimon">
 	<requires>
@@ -43,6 +43,9 @@
             <screenshot>resources/screenshot-15.jpg</screenshot>
 		</assets>
         <news>
+    v1.0.9
+    - uprava a zmena nazvu widgetu Stream Cinema Community
+
     v1.0.8
     - uprava nastaveni widgetu
     - uprava zobrazeni widgetu

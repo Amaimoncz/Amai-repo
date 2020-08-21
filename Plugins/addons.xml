@@ -1,6 +1,6 @@
 <addons>
 <addon id="skin.estuary.amai" 
-        version="1.0.10" 
+        version="1.0.11" 
         name="Estuary-Amaimon MOD" 
         provider-name="Amaimon">
 	<requires>
@@ -43,6 +43,9 @@
             <screenshot>resources/screenshot-15.jpg</screenshot>
 		</assets>
         <news>
+    v1.0.11
+    - uprava widgetu pro trakt.tv
+
     v1.0.10
     - uprava widgetu Stream Cinema
     - uprava widgetu Next Up

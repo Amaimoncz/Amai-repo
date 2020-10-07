@@ -1,6 +1,6 @@
 <addons>
 <addon id="skin.estuary.amai" 
-        version="1.0.11" 
+        version="1.0.12" 
         name="Estuary-Amaimon MOD" 
         provider-name="Amaimon">
 	<requires>
@@ -43,6 +43,10 @@
             <screenshot>resources/screenshot-15.jpg</screenshot>
 		</assets>
         <news>
+    v1.0.12
+    - uprava spousteni kodi (delay 10s - nacteni widgetu)
+    - pridani system info na home screen
+
     v1.0.11
     - uprava widgetu pro trakt.tv
 

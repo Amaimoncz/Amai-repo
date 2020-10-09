@@ -1,6 +1,6 @@
 <addons>
 <addon id="skin.estuary.amai" 
-        version="1.0.12" 
+        version="1.0.13" 
         name="Estuary-Amaimon MOD" 
         provider-name="Amaimon">
 	<requires>
@@ -43,6 +43,11 @@
             <screenshot>resources/screenshot-15.jpg</screenshot>
 		</assets>
         <news>
+    v1.0.13
+    - zmena delay pri startu na 25s
+    - zmena umisteni ikon nastaveni, update library, search v levem hornim rohu
+    - uprava system info widgetu
+ 
     v1.0.12
     - uprava spousteni kodi (delay 10s - nacteni widgetu)
     - pridani system info na home screen

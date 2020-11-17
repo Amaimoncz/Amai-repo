@@ -1,6 +1,6 @@
 <addons>
 <addon id="skin.estuary.amai" 
-        version="1.0.14" 
+        version="1.0.15" 
         name="Estuary-Amaimon MOD" 
         provider-name="Amaimon">
 	<requires>
@@ -43,6 +43,10 @@
             <screenshot>resources/screenshot-15.jpg</screenshot>
 		</assets>
         <news>
+    v1.0.15
+    - drobne upravy widgetu
+    - uprava zobrazeni HBO GO widgetu
+
     v1.0.14
     - uprava widgetu Next Up - (pouziti doplnku plugin.video.nextup ) zrychleni nacitani
     - uprava zobrazeni a tlačítka search

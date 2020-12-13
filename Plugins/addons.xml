@@ -1,6 +1,6 @@
 <addons>
 <addon id="skin.estuary.amai" 
-        version="1.0.16" 
+        version="1.0.17" 
         name="Estuary-Amaimon MOD" 
         provider-name="Amaimon">
 	<requires>
@@ -43,6 +43,8 @@
             <screenshot>resources/screenshot-15.jpg</screenshot>
 		</assets>
         <news>
+    v1.0.17
+    - uprava trakt widgetu
     v1.0.16
     - drobne opravy
 
